@@ -1,0 +1,27 @@
+#bt-cart{
+    height: 6vh;
+    width: 180px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 50%;
+    font-size: 25px;
+    background-color: blueviolet;
+    color: white;
+}
+.bt-counter{
+  
+    height: 5.3vh;
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    color:black;
+    font-size: 29px;
+    background-color: chartreuse;
+}
+#del{
+    border-radius: 45%;
+    margin-left: 50%;
+    margin-top: 6px;
+    /* font-size: 25px; */
+}
